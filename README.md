@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hello there! I'm Aisha Nawaz, a final year Computer Science student born and raised in Kuwait. My passion lies in the captivating world of Data Science.
+👋 Hello there! I'm Aisha Nawaz, a final year Computer Science student from Pakistan. My passion lies in the captivating world of Data Science.
 
 📚 Academic Pursuits:
 I've been pursuing my CS degree with a focus on Statistics, Mathematics, and Artificial Intelligence. Throughout my academic journey, I've taken on challenging projects that involve working with real-world datasets.

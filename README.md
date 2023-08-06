@@ -3,7 +3,7 @@
 👋 Hello there! I'm Aisha Nawaz, a final year Computer Science student from Pakistan. My passion lies in the captivating world of Data Science.
 
 📚 Academic Pursuits:
-I've been pursuing my CS degree with a focus on Statistics, Mathematics, and Artificial Intelligence. Throughout my academic journey, I've taken on challenging projects that involve working with real-world datasets.
+I've been pursuing my CS degree with a focus on Statistics, Mathematics, and Artificial Intelligence. Throughout my academic journey, I've taken on challenging projects that involve working with real-world problems.
 
 💼 Data Science Internship:
 During my academic journey, I had the opportunity to complete an enriching 8-week Data Science internship at GlowingSoft Technologies. This experience allowed me to apply my skills to real-world problems and gain valuable industry insights.

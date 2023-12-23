@@ -41,11 +41,6 @@ During my academic journey, I had the opportunity to complete an enriching 8-wee
 ### Future Aspirations 🌱 
 As I approach the end of my CS journey, I'm excited about leveraging my Data Science & Web Development skills to make a positive impact on society. I'm eager to contribute to projects that drive innovation and solve complex challenges.
 
-## Random Quote ✍️
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
-</div>
-
 ### Get in Touch?
 I'm always open to connecting with fellow Data Science or Web Development enthusiasts, industry professionals, and potential collaborators. Feel free to send me an [email.](mailto:aishanawaz6609@gmail.com)
 

@@ -1,7 +1,7 @@
 <img width="100%" height="450" src="https://wallpaperaccess.com/full/2825953.gif" alt="Cover Photo">
 
 
-<h1 align="center">Helloouu 👋, I'm Aisha Muhammad Nawaz</h1>
+<h1 align="center">Hello 👋, I'm Aisha Muhammad Nawaz</h1>
 <h3 align="center">A Final Year Computer Science Student at FAST-NUCES.</h3>
 <h3 align='center'>My passion lies in the enchanting world of Data Science & Web Development!</h3>
 

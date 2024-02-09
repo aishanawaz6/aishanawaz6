@@ -32,19 +32,19 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=aishanawaz6&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributors">
 </p>
 
-# Academic Odyssey 📚
+## Academic Odyssey 📚
 Embarking on my computer science journey, I've embraced intellectually stimulating projects that immerse me in real-world challenges, shaping my academic pursuit.
 
-# Internship Epiphany 💼
+## Internship Epiphany 💼
 In a transformative 8-week Data Science internship at GlowingSoft Technologies, I immersed myself in the dynamic landscape of industry complexities. This experience not only refined my technical skills but also bestowed upon me the profound wisdom that can only be gained in the trenches of real-world problem-solving.
 
-# Aspirations Blooming 🌱
+## Aspirations Blooming 🌱
 As the finale of my computer science odyssey approaches, I am fueled by an ardent desire to leverage my honed skills in Data Science and Web Development. My goal is not just proficiency but a profound impact on society. I aspire to contribute to projects that not only innovate but also stand resilient against the tide of complex challenges.
 
-# Unleashing Innovation 🚀
+## Unleashing Innovation 🚀
 This space isn't just about code; it's about crafting solutions that reverberate in the world. I invite you to join me in this exhilarating adventure of Data Science and Web Development. Together, let's turn challenges into opportunities, innovation into reality, and aspirations into a legacy.
 
-# Let's Forge Connections! 🤝
+## Let's Forge Connections! 🤝
 To fellow Data Science and Web Development enthusiasts, industry professionals, and potential collaborators: I extend an open invitation. Reach out, share insights, let's collaborate, and amplify our impact. You can connect with me via [email](mailto:aishanawaz6609@gmail.com). 
 
 

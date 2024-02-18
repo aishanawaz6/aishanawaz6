@@ -1,5 +1,5 @@
+<h1 align="center">Welcome to My Coding World 🚀</h1>
 <img width="100%" height="450" src="https://wallpaperaccess.com/full/2825953.gif" alt="Cover Photo">
-
 
 <h1 align="center">Hello 👋, I'm Aisha M Nawaz</h1>
 <h3 align="center">A Final Year Computer Science Student at FAST-NUCES.</h3>
@@ -31,7 +31,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=aishanawaz6&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributors">
 </p>
 
-# Welcome to My Coding World 🚀
 
 ## Journey So Far 📚
 I'm a computer science enthusiast on an ever-evolving learning journey. Whether it's Python, C++, MERN Stack, or Machine Learning, I've delved into diverse projects, sculpting a versatile skill set. Beyond coding, I bring a mix of technical finesse and essential soft skills like time management, leadership, and attention to detail. 

@@ -3,7 +3,6 @@
 
 <h1 align="center">Hello 👋, I'm Aisha M Nawaz</h1>
 <h3 align="center">A Final Year Computer Science Student at FAST-NUCES.</h3>
-<h3 align='center'>My passion lies in the enchanting world of Data Science & Web Development!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishanawaz6&label=Profile%20views&color=0e75b6&style=flat" alt="aishanawaz6" /> </p>
 
@@ -35,7 +34,7 @@
 # Welcome to My Coding World 🚀
 
 ## Journey So Far 📚
-I'm Aisha Muhammad Nawaz, a computer science enthusiast on an ever-evolving learning journey. Whether it's Python, C++, MERN Stack, or Machine Learning, I've delved into diverse projects, sculpting a versatile skill set. Beyond coding, I bring a mix of technical finesse and essential soft skills like time management, leadership, and attention to detail. 
+I'm a computer science enthusiast on an ever-evolving learning journey. Whether it's Python, C++, MERN Stack, or Machine Learning, I've delved into diverse projects, sculpting a versatile skill set. Beyond coding, I bring a mix of technical finesse and essential soft skills like time management, leadership, and attention to detail. 
 
 ## Internship Chronicles 💼
 In an 8-week Data Science internship at GlowingSoft Technologies, I stepped into the real-world coding scene. It not only leveled up my tech skills but also gave me a sneak peek into the complexities of the industry.

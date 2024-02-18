@@ -48,7 +48,7 @@ This space is more than just lines of code; it's about crafting solutions that e
 
 ## Let's Connect! 🤝
 
-Calling all Data Science and Web Development enthusiasts, industry pros, and potential collaborators! Let's chat, share ideas, collaborate, and amplify our impact. Feel free to shoot me an [email](mailto:aishanawaz6609@gmail.com).
+Calling all Computer Science enthusiasts, industry pros, and potential collaborators! Let's chat, share ideas, collaborate, and amplify our impact. Feel free to shoot me an [email](mailto:aishanawaz6609@gmail.com).
 
 Happy coding! 🌟
 

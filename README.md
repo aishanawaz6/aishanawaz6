@@ -40,7 +40,7 @@ In an 8-week Data Science internship at GlowingSoft Technologies, I stepped into
 
 ## Dreams Taking Root 🌱
 
-As I approach the end of my computer science studies, I'm all about using my skills in Data Science and Web Development to make a real impact. It's not just about being good; it's about doing things that matter.
+As I approach the end of my computer science studies, I'm all about using my skills to make a real impact. It's not just about being good; it's about doing things that matter.
 
 ## Turning Ideas into Code 🚀
 
